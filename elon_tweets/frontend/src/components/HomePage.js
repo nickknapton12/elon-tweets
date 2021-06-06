@@ -16,6 +16,7 @@ export default function HomePage() {
           <h2>Elon Memes</h2>
         </div>
       </div>
+      <h3 style={{marginTop: `12%`}}>"Who controls the memes, controls the Universe"</h3>
     </div>
   );
 }
