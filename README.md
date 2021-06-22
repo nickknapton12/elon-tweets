@@ -10,6 +10,3 @@ Frontend - React
 ## Apis
 <li>Twitter API </li>
 <li>Some crypto API </li>
-
-## Icon
-Elon musk clipart kinda thing on a coin
